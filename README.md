@@ -34,8 +34,9 @@ pip install --upgrade pip
 4. AzureOpenAI API
 5. FastAPI
 
-### 
+### Architecture Diagram
 
+![img.png](img.png)
 
 
 
