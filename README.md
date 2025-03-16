@@ -1,1 +1,1 @@
-# RAG-using-AWS-Bedrock-and-Azure-OpenA
+# RAG-using-AWS-Bedrock-and-Azure-OpenAI
